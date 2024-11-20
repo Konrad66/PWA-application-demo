@@ -9,9 +9,9 @@
   "display": "standalone", 
   "icons": [
       {
-        "src": "/PWA-application-demo/img/icon.png",
+        "src": "/PWA-application-demo/img/icon-72.png",
         "type": "image/png",
-        "sizes": "700x700"
+        "sizes": "72x72"
       }
   ]
 }
