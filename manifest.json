@@ -1,7 +1,7 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "GPPWA",
-  "description": "Github Page as a Progressive Web App",
+  "name": "Finance Page PWA",
+  "short_name": "FinancePWA",
+  "description": "Finance Page as a Progressive Web App",
   "scope": "/PWA-application-demo/",
   "start_url": "/PWA-application-demo/",
   "background_color": "#ffffff",
